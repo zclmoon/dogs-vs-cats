@@ -10,4 +10,4 @@
 * dogs_cats_train.ipynb：主要是在aws按照本地处理数据，然后训练模型。主要aws上的训练集我是通过Kaggle API下载的。
 * dogs_vs_cats_predict: 预测test集，并把结果存到csv文件中
 
-Udacity的优惠码：**D020F076，新人立享300元优惠**。
+Udacity的优惠码：**D020F076，立享300元优惠**。
